@@ -24,4 +24,4 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSOITORIO.git](https://github.com/TU_USUARIO/TU_REPOSOITORIO.git)
+   git clone https://github.com/MariaIsaDurango/app-streamlit.git
